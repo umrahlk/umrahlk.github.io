@@ -4,6 +4,7 @@ title: "Mediumish"
 description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+url: 'appsgit.com'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -14,9 +15,9 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    name: Zumry
+    display_name: zumry
+    gravatar: 
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
