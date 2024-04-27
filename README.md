@@ -1,0 +1,1 @@
+Umrah or hajj is eternal journey towards through your soul. It is not a business. Each and every srilankans regardless of their financial status, should perform this once in their life. It is our vision and mission.
