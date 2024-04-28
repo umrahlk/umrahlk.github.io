@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kwabena Appiah Isaac
+title: About use
 permalink: /about
 comments: true
 ---
