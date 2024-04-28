@@ -1,13 +1,13 @@
 # Site
 name: "Umrah for every Srilankans"
 title: "Umrah.lk"
-description: "Embarking on the transformative journeys of Umrah is a sacred calling for all Sri Lankans muslims, transcending financial barriers, and embodying our deepest vision and mission."
+description: "Embarking on the transformational travels of Umrah is a holy calling for all Sri Lankan Muslims. Regardless of financial position, assisting everyone to undertake this at least once in their lives is our deepest vision and mission."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 domain: 'umrah.lk'
-url: 'https://umrah.com'
+url: 'https://umrah.lk'
 baseurl: ''
-google_analytics: 'UA-46278016-1'
+google_analytics: 'G-RE843W4H72'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -15,24 +15,15 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  zum:
     name: Zumry
-    display_name: zumry
+    display_name: Zumry
     gravatar: 
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-
+    email: mail2umrah.lk@gmail.com
+    web: https://www.umrah.lk
+    twitter: https://twitter.com/umrahlk
+    description: "Author of Umrah.lk"
+  
 # Plugins
 plugins:
   - jekyll-paginate
