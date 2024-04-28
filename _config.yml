@@ -1,5 +1,5 @@
 # Site
-name: "Umrah for every Srilankans"
+name: "umrah.lk"
 title: "Umrah.lk"
 description: "Embarking on the transformational travels of Umrah is a holy calling for all Sri Lankan Muslims. Regardless of financial position, assisting everyone to undertake this at least once in their lives is our deepest vision and mission."
 logo: 'assets/images/logo.png'
@@ -8,7 +8,7 @@ domain: 'umrah.lk'
 url: 'https://umrah.lk'
 baseurl: ''
 google_analytics: 'G-RE843W4H72'
-disqus: 'demowebsite'
+disqus: 'umrah-lk'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
