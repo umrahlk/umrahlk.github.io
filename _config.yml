@@ -9,7 +9,7 @@ url: 'https://umrah.lk'
 baseurl: ''
 google_analytics: 'G-RE843W4H72'
 disqus: 'umrah-lk'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 

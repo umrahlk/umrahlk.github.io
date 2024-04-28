@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Umrah Guilde in English"
+title:  "Umrah Guide in English"
 author: Zumry
 categories: [ English ]
 image: assets/images/14.jpg
@@ -10,6 +10,6 @@ hidden: true
 
 Insha allah, we will update this page as soon as possible.
 
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
+
+This is going to be English guide
+
