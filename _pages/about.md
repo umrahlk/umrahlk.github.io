@@ -8,27 +8,37 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Insha allah we will update this page soon.</p>
-<!-- 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+# Welcome to Umrah.lk
 
-<!-- <p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p> -->
+Unlike in the past, just a few people were able to travel to Makkah and Madinah to do **Hajj and Umrah**. It is now more easier, less complicated, and more economical to go on such a peaceful journey.
 
-<!-- <h4>Questions or bug reports?</h4> -->
+We are from Umrah.lk.  We are here to advise you in a variety of ways to make your hajj and umrah as simple and straightforward as possible.  We will discuss everything from planning your trip to leaving. We will cover everything as time permits.
 
-<!-- <p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p> -->
 
-<!-- </div> -->
+Unlike Hajj, Umrah rituals are shorter and simpler.
+
+These are the essential steps of Umrah:
+
+• Wash your body and dress in Ihram robes to enter the state of purity and devotion.  
+• Recite the Talbiyah in the miqat station to declare intention to make the pilgrimage.  
+• Travel to Makkah.  
+• Enter Al Masjid Al Haram (Holy Mosque) and perform Tawaf – circling the Kaaba seven times in a counterclockwise direction.  
+• Perform Sa’ay – walking 7 times between the hills of Safa and Marwah beside the Kaaba.  
+• At the end of Umrah, men exit from Ihram by shaving their head (taqseer). Completing Umrah for women requires cutting off a short lock of hair.
+
+
+We are not done yet. In our blog, we will provide detailed information on every step of your Umrah journey, starting from Sri Lanka. This includes guidance on booking flights and much more. Stay tuned!
+
+
+**Signup to Email**
+But we'll talk about it later in our blog.  Please sign up for our email subscription so that you can receive our emails on time.
+
+
+
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<!-- <h5>Buy me a coffee</h5> -->
-
-<!-- <p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p> -->
-
-<!-- <a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a> -->
 
 </div>
 </div>
